@@ -32,7 +32,7 @@ A Chrome Extension to extract `auth_token` and `ct0` cookies from X (Twitter).
 
 4. **Click "Load unpacked"** → select the cloned folder
 
-5. The **THOG Tools** icon will appear in your Chrome toolbar ✅
+5. The **X Token Extractor 1.0** icon will appear in your Chrome toolbar ✅
 
 ---
 
