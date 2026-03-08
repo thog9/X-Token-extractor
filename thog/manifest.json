@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "X Token Extractor",
+  "version": "1.0",
+  "description": "Extract auth_token and ct0 from X",
+  "permissions": ["cookies", "tabs", "storage"],
+  "host_permissions": [
+    "https://x.com/*",
+    "https://twitter.com/*"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
